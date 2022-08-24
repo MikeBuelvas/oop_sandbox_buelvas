@@ -14,8 +14,11 @@ This is normal text
 
 This is a hyperlink for [readsy](http://www.readsy.co/)
 
-This is a inline code 'import pandas as pd'
+This is inline code `import pandas as pd`
 
-"""
+Below a block of code
 
-"""
+```
+import pandas as pd
+pd.read_csv()
+```
