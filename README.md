@@ -14,7 +14,7 @@ This is normal text
     - this is a sub bullet
         - this deep
 - second bullet
--third  bullet
+- third bullet
 
 This is a hyperlink for [readsy](http://www.readsy.co/)
 
